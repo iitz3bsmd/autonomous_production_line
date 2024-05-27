@@ -1,4 +1,4 @@
-#  Autonomous Production Line | autonomous_production_line
+# 🤖 Autonomous Production Line | autonomous_production_line
 A production line running autonomously with multiple stages, powered by a SCARA Robotic Arm and using the VDI-Model Design Methodology
 
 ![image](https://github.com/iitz3bsmd/autonomous_production_line/assets/112030326/c6d7c2af-2c2c-4b9c-89a7-df40bdbd94b6)
