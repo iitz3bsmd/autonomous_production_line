@@ -68,7 +68,7 @@ One of our goals was project reliability, and for that reason we designed and ma
 
 ![image](https://github.com/iitz3bsmd/autonomous_production_line/assets/112030326/e0c93e10-152a-4fea-b518-86f2a65c9483)
 ![image](https://github.com/iitz3bsmd/autonomous_production_line/assets/112030326/78ce6c2d-4d70-4660-a49b-7f38ac758491)
-<img src="https://github.com/iitz3bsmd/autonomous_production_line/assets/112030326/cdb7f958-a820-4755-bdae-e66c1621b355" width="500" >
+<img src="https://github.com/iitz3bsmd/autonomous_production_line/assets/112030326/381c20bd-786a-48bd-931c-9bf723da73f1" width="700" >
 
 
 
